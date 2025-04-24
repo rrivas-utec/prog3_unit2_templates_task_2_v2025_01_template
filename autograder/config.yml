@@ -1,0 +1,21 @@
+limit_submissions: -1
+required_files: 
+  - sum_variadic.h
+
+  - all_true.h
+
+  - max_static.h
+
+  - apply_to_all.h
+
+  - invoke_multiple.h
+
+  - static_array.h
+
+  - tuple_printer.h
+
+  - comparator.h
+
+  - dimensions.h
+
+  - printer_specialized.h
