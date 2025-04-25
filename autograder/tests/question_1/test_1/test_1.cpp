@@ -4,7 +4,6 @@
 #include "catch.hpp"
 #include "redirect_io.h"
 #include "sum_variadic.h"
-#include "../../../../tools/catch/catch.hpp"
 using namespace std;
 
 static void test_1() {
